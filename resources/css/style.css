@@ -1,1 +1,36 @@
-
+.Header1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.Dl-Link1 {
+    color: aquamarine;
+    font-size: 16px;
+}
+.Header2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 32px;
+}
+.Header3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+.Header4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 32px;
+}
+.Dl-Link2 {
+    color: aquamarine;
+    font-size: 16px;
+}
+.Copyright {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
