@@ -1,2 +1,2 @@
 # excursion
-##Codecademy website project - first website
+## Codecademy website project - first website
